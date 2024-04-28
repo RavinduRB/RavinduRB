@@ -19,7 +19,7 @@
 
 | ![Ravindu Bandara's github status](https://github-readme-stats.vercel.app/api?username=RavinduRB&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduRB&theme=tokyonight)  |
 | --- | --- |
-|![Ravindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RavinduRB&theme=tokyonight) |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavinduRB&theme=algolia" alt="ravindu bandara"  /> |
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
