@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#, Python, HTML, Java**
 
-- 🧑‍🎓 I'm currently studying at **NSBM Green University**
+- 🧑‍🎓 I'm an undergraduate student of **NSBM Green University**
 
 - 💬 Ask me about **HTML, Java**
 
