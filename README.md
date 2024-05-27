@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, Java**
 
-- ⚡ Fun fact **Call me as Lucifer**
+- ⚡ Fun fact **Call me as Ravindu**
 
 ---
 
