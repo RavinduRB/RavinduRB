@@ -6,11 +6,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindurb&label=Profile%20views&color=0e75b6&style=flat" alt="ravindurb" /> </p>
 
-- 🌱 I’m currently learning **C#, Python, HTML, Java**
+- 🌱 I’m currently learning **C#, Python, HTML, CSS, JavaScript, PHP, Java**
 
 - 🧑‍🎓 I'm an undergraduate student of **NSBM Green University**
 
-- 💬 Ask me about **HTML, Java**
+- 💬 Ask me about **C#, HTML, CSS**
 
 - ⚡ Fun fact **Call me as Ravindu**
 
