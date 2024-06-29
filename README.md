@@ -1,5 +1,5 @@
 <p align="center" >
-<picture><img width="100" height="100" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+<picture><img width="200px" height="170px" src = "https://github.com/RavinduRB/RavinduRB/assets/167113225/a8c4895a-55f7-4935-9767-27fe4d35c73b" width = 50px></picture>
 </p>
 <h1 align="center">Hi 👋, I'm Ravindu Bandara</h1>
 <h3 align="center">Passionate full Stack developer</h3>
@@ -21,9 +21,8 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://github.com/RavinduRB/RavinduRB/assets/167113225/14da9097-99b9-47ec-96ae-08978870cc48">
+  <img align="center" alt="Coding" width="420px" height="270px" src="https://github.com/RavinduRB/RavinduRB/assets/167113225/ea0de91b-9275-4b0b-85dd-96e175b949c1">
 
-  
   </td>
 </tr>
 </table>
