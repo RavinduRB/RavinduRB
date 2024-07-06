@@ -21,7 +21,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="420px" height="270px" src="https://github.com/RavinduRB/RavinduRB/assets/167113225/ea0de91b-9275-4b0b-85dd-96e175b949c1">
+  <img align="center" alt="Coding" width="420px" height="270px" src="https://github.com/RavinduRB/RavinduRB/assets/167113225/6539482c-d48c-45d7-b744-5117a084fda4">
 
   </td>
 </tr>
