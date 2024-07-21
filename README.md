@@ -1,6 +1,7 @@
 <p align="center" >
-<picture><img width="200px" height="170px" src = "https://github.com/RavinduRB/RavinduRB/assets/167113225/a8c4895a-55f7-4935-9767-27fe4d35c73b" width = 50px></picture>
+  <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px>
 </p>
+
 <h1 align="center">Hi 👋, I'm Ravindu Bandara</h1>
 <h3 align="center">Passionate full Stack developer</h3>
 
