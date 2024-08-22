@@ -52,6 +52,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ravindu-bandara-bb9669320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="ravindu bandara" height="50" width="50" /></a>
 <a href="https://www.facebook.com/share/2RPbTC3fkGbyreFF/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu bandara" height="50" width="50" /></a>
+<a href="https://www.instagram.com/ravindu._bandara?igsh=cWNrdTJicHhyMjNv" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
 
 ---
