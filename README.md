@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **C#, Python, HTML, CSS, JavaScript, PHP, Java**
 
-- 🧑‍🎓 I'm an undergraduate student of **NSBM Green University**
+- 🧑‍🎓 I'm an undergraduate student of **NSBM Green University and University of Plymouth**
 
-- 💬 Ask me about **C#, HTML, CSS**
+- 💬 Ask me about **JAVA, HTML, CSS**
 
-- ⚡ Fun fact **Call me as Ravindu**
+- ⚡ Call me as **Ravindu**
 
 </td>
 <td width="50%" align="center">
