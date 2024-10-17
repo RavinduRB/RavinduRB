@@ -48,6 +48,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduRB&theme=react&area=true&order=5&bg_color=black" height="300" alt="activity-graph graph"  />
+</div>
+
+---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ravindu-bandara-bb9669320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="ravindu bandara" height="50" width="50" /></a>
