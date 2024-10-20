@@ -73,6 +73,10 @@
   
 ---
 
+# ![snake gif](https://github.com/RavinduRB/RavinduRB/blob/output/github-contribution-grid-snake.svg)
+
+---
+
   <img src="https://github-profile-trophy.vercel.app?username=RavinduRB&theme=discord&margin-w=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
