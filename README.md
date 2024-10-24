@@ -44,7 +44,7 @@
 
 
 
-<h3 align="center">My Statistics:</h3>
+<h3 align="center">📊 My GitHub Stats:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -67,12 +67,19 @@
 </table>
 
 ---
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=RavinduRB&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduRB&theme=react&area=true&order=5&bg_color=black" height="300" alt="activity-graph graph"  />
   
 ---
-
+## ❄️ My Trophies
   <img src="https://github-profile-trophy.vercel.app?username=RavinduRB&theme=discord&margin-w=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
@@ -81,7 +88,7 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ravindu-bandara-bb9669320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="ravindu bandara" height="50" width="50" /></a>
@@ -98,7 +105,7 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">💻 My Tech Stack:</h3>
 <p align="center"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Angular-Light.svg" alt="angular" width="50" height="50"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/></a>
@@ -124,7 +131,7 @@
 
 
 
-<h3 align="center">Support:</h3>
+<h3 align="center">❄️ Support:</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/RavinduRB"> 
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RavinduRB" />
