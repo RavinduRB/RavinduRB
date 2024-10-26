@@ -67,6 +67,20 @@
 </table>
 
 ---
+<h3 align="center">🚀 My Repository:</h3>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=RavinduRB&theme=github-dark-blue&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&card_width=409&hide_current_streak=true&hide_longest_streak=true" align="center" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=RavinduRB&theme=github-dark-blue&hide_border=true&border_radius=0&locale=en&date_format=%5BY.%5Dn.j&card_width=338&hide_total_contributions=true&hide_current_streak=true" align="center" />
+    </td>
+  </tr>
+</table>
+
+---
+<h3 align="center">🔝 My Top Contributed Repo:</h3>
 <div align="center">
   
 ![](https://github-contributor-stats.vercel.app/api?username=RavinduRB&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
@@ -74,13 +88,18 @@
 </div>
 
 ---
-
+<h3 align="center">🔥 My Top Contribution Graph:</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduRB&theme=react&area=true&order=5&bg_color=black" height="300" alt="activity-graph graph"  />
   
 ---
 ## ❄️ My Trophies
   <img src="https://github-profile-trophy.vercel.app?username=RavinduRB&theme=discord&margin-w=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+---
+
+### ✍️ Random Dev Quote
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed?quoteCategory=success&theme=tokyonight&animation=grow_out_in)
 </div>
 
 ---
