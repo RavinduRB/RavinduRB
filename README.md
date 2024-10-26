@@ -80,6 +80,7 @@
 </table>
 
 ---
+
 <h3 align="center">🔝 My Top Contributed Repo:</h3>
 <div align="center">
   
@@ -100,6 +101,7 @@
 ---
 
 <h3 align="center">✍️ My Random Dev Quote:</h3>
+
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed?quoteCategory=success&theme=tokyonight&animation=grow_out_in)
 </div>
 
