@@ -93,12 +93,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduRB&theme=react&area=true&order=5&bg_color=black" height="300" alt="activity-graph graph"  />
   
 ---
-## ❄️ My Trophies
+
+<h3 align="center">❄️ My Trophies:</h3>
   <img src="https://github-profile-trophy.vercel.app?username=RavinduRB&theme=discord&margin-w=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 ---
 
-### ✍️ My Random Dev Quote
+<h3 align="center">✍️ My Random Dev Quote:</h3>
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed?quoteCategory=success&theme=tokyonight&animation=grow_out_in)
 </div>
 
