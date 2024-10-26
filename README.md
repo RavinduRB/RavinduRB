@@ -112,7 +112,7 @@
 <h3 align="center">🔝 My Top Contributed Repo:</h3>
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=RavinduRB&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=RavinduRB&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 </div>
 
