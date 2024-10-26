@@ -98,7 +98,7 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ My Random Dev Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed?quoteCategory=success&theme=tokyonight&animation=grow_out_in)
 </div>
 
