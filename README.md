@@ -217,6 +217,29 @@
 
 
 
+
+<!--break line-->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
+
+
+
+<!--my skills-->
+<h3 align="center">🍃 Currently in use:</h3>
+
+<div align="center">
+
+| Title                          | Icon                                                                                                             |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Programming Languages          | <img src="https://skillicons.dev/icons?i=java,python,c#"/>                                                       |
+| Scripting Languages            | <img src="https://skillicons.dev/icons?i=html,css"/>                                                             |
+| Tools                          | <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio"/>                                            |
+| Databases                      | <img src="https://skillicons.dev/icons?i=mysql"/>                                                                |
+| Version Control                | <img src="https://skillicons.dev/icons?i=github,githubactions"/>                                                 |
+</div>
+
+
+
 <!--break line-->
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
@@ -234,5 +257,5 @@
 
 <!--footer-->
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
 </p>
