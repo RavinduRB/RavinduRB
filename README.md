@@ -224,7 +224,7 @@
 
 
 
-<!--my skills-->
+<!--currently in use-->
 <h3 align="center">🍃 Currently in use:</h3>
 
 <div align="center">
@@ -236,6 +236,7 @@
 | Tools                          | <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio"/>                                            |
 | Databases                      | <img src="https://skillicons.dev/icons?i=mysql"/>                                                                |
 | Version Control                | <img src="https://skillicons.dev/icons?i=github,githubactions"/>                                                 |
+
 </div>
 
 
