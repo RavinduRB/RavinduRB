@@ -57,7 +57,7 @@
 
 
 <!--my gitHub stats-->
-<h3 align="center">📊 My GitHub Stats:</h3>
+<h3 align="center">📊 My GitHub Stats: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center">
 <table align="center">
   <tr border="none">
@@ -87,7 +87,7 @@
 
 
 <!--my repository-->
-<h3 align="center">🚀 My Repository:</h3>
+<h3 align="center">🚀 My Repository: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <table align="center">
   <tr>
     <td>
@@ -109,7 +109,7 @@
 
 
 <!--my top contributed repo-->
-<h3 align="center">🌀 My Top Contributed Repo:</h3>
+<h3 align="center">🌀 My Top Contributed Repo: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <div align="center">
   
 ![](https://github-contributor-stats.vercel.app/api?username=RavinduRB&limit=5&theme=algolia&combine_all_yearly_contributions=true)
@@ -124,7 +124,7 @@
 
 
 <!--my top contribution graph-->
-<h3 align="center">🔥 My Top Contribution Graph:</h3>
+<h3 align="center">🔥 My Top Contribution Graph: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduRB&theme=react&area=true&order=5&bg_color=black" height="300" alt="activity-graph graph"  />
 
@@ -136,7 +136,7 @@
 
 
 <!--my trophies-->
-<h3 align="center">❄️ My Trophies:</h3>
+<h3 align="center">❄️ My Trophies: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <img src="https://github-profile-trophy.vercel.app?username=RavinduRB&theme=discord&margin-w=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 
@@ -147,7 +147,7 @@
 
 
 <!--my random dev quote-->
-<h3 align="center">✍️ My Random Dev Quote:</h3>
+<h3 align="center">✍️ My Random Dev Quote: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed?quoteCategory=success&theme=tokyonight&animation=grow_out_in)
 </div>
@@ -161,7 +161,7 @@
 
 
 <!--connect with me-->
-<h3 align="center">🌐 Connect with me:</h3>
+<h3 align="center">🌐 Connect with me: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ravindu-bandara-bb9669320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="ravindu bandara" height="50" width="50" /></a>
@@ -181,7 +181,7 @@
 
 
 <!--my tech stack-->
-<h3 align="center">💻 My Tech Stack:</h3>
+<h3 align="center">💻 My Tech Stack: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Angular-Light.svg" alt="angular" width="50" height="50"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/></a>
@@ -224,7 +224,7 @@
 
 
 <!--currently in use-->
-<h3 align="center">🍃 Currently in use:</h3>
+<h3 align="center">🍃 Currently in use: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
 <div align="center">
 
@@ -246,7 +246,7 @@
 
 
 <!--support-->
-<h3 align="center">❄️ Support:</h3>
+<h3 align="center">❄️ Support: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/RavinduRB"> 
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RavinduRB" />
