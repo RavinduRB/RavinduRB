@@ -149,7 +149,7 @@
 <!--my random dev quote-->
 <h3 align="center">✍️ My Random Dev Quote: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed?quoteCategory=success&theme=tokyonight&animation=grow_out_in)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed?quoteCategory=success&theme=algolia&animation=grow_out_in)
 </div>
 
 
