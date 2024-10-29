@@ -1,3 +1,9 @@
+<!--Header-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
+</p>
+
+
 <!--first gif-->
 <p align="center" >
   <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px>
@@ -15,7 +21,7 @@
   </p>
 </p>
 
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RavinduRB&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Rez4-3yz)
 
 <!--profile views-->
 <p align="center"> 
