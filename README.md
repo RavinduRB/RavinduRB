@@ -144,9 +144,48 @@
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 
+<!--my certificate-->
+<h3 align="center">🎓 My Certificates: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+  <div align="center">
+      <a href="https://github.com/user-attachments/assets/642761a7-873b-4a7f-a0de-ac4374d2412d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_1.png" /></a>
+      <a href="https://github.com/user-attachments/assets/aa20f2b6-219b-40eb-be3b-8d58ec06834e" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_2.png" /></a>
+      <a href="https://github.com/user-attachments/assets/c9bab3f5-d08b-4d88-824a-8a58193caa28" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_3.png" /></a>
+      <a href="https://github.com/user-attachments/assets/1d601256-3e9b-46eb-85d6-52366ff6747b" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_4.png" /></a>
+      <a href="https://github.com/user-attachments/assets/92646de0-0f35-4ad0-ac59-5f486bfaeec8" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_5.png" /></a>
+      <a href="https://github.com/user-attachments/assets/4a0106b8-a57a-4d4e-9ed4-3e3077fe46c2" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_6.png" /></a>
+      <a href="https://github.com/user-attachments/assets/27cf5611-5db7-45ad-bfc7-923f215927f7" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_7.png" /></a>
+      <a href="https://github.com/user-attachments/assets/c2ffb84d-ee0b-4d9e-933a-388724b19a08" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_8.png" /></a>
+      <a href="https://github.com/user-attachments/assets/56897d16-63af-4c5d-9fa1-573b4e39e4fb" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_9.png" /></a>
+      <a href="https://github.com/user-attachments/assets/ba588c29-b9ca-4c28-9fbb-e85c89feed69" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_10.png" /></a>
+      <a href="https://github.com/user-attachments/assets/dc8acffa-ae18-4961-87d2-404df92059ed" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_11.png" /></a>
+      <a href="https://github.com/user-attachments/assets/3804ff5f-e618-4e45-be93-ec10468670f8" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_12.png" /></a>
+      <a href="https://github.com/user-attachments/assets/bcde9335-d65a-40ed-9ff4-69b5c590b808" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_13.png" /></a>
+      <a href="https://github.com/user-attachments/assets/634eb3fd-ca28-49ea-86ab-2d7509efd78d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_14.png" /></a>
+      <a href="https://github.com/user-attachments/assets/ad0dda93-2e03-4d20-bd8f-8c4f79d4cad8" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_15.png" /></a>
+      <a href="https://github.com/user-attachments/assets/a9631260-7239-40cc-b061-d07078da65a0" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_16.png" /></a>
+      <a href="https://github.com/user-attachments/assets/f32a08a7-958d-429f-84ec-f58d460ed8ed" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_17.png" /></a>
+      <a href="https://github.com/user-attachments/assets/bfd454bb-390c-4535-a741-6c8dffd28321" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_18.png" /></a>
+      <a href="https://github.com/user-attachments/assets/9f43b602-b101-4f68-8aa3-ed493869fa2f" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_19.png" /></a>
+      <a href="https://github.com/user-attachments/assets/bab1cfa3-0694-4a5c-9007-d97806676965" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_20.png" /></a>
+      <a href="https://github.com/user-attachments/assets/b1488465-e62f-406e-97af-a4c5b22814e9" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_21.png" /></a>
+      <a href="https://github.com/user-attachments/assets/e2252f1d-b7f4-4e47-a1f9-d99e71291491" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_22.png" /></a>
+      <a href="https://github.com/user-attachments/assets/8769f1f3-adaa-4e32-920b-c2a8097893ce" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_23.png" /></a>
+      <a href="https://github.com/user-attachments/assets/e31c72e8-70ba-406a-9aab-02271325681a" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_24.png" /></a>
+      <a href="https://github.com/user-attachments/assets/dd138597-13dc-42a1-976e-a08db7e412e7" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_25.png" /></a>
+  </div>
+    <br>
+
+
+
+
+
+<!--break line-->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
+
 
 <!--my trophies-->
-<h3 align="center">❄️ My Trophies: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">🏆 My Trophies: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <img src="https://github-profile-trophy.vercel.app?username=RavinduRB&theme=discord&margin-w=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 
@@ -256,7 +295,7 @@
 
 
 <!--support-->
-<h3 align="center">❄️ Support: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">🤝 Support: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/RavinduRB"> 
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RavinduRB" />
