@@ -175,10 +175,23 @@
 
 
 
+<!--break line-->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
+<!--my microsoft badges-->
+<h3 align="center">🏅 My Microsoft Badges: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+  <div align="center">
+      <a href="https://github.com/user-attachments/assets/20c87dae-5ffc-4d56-a83b-86b19b0cd4b4" target="_blank"> <img height ="150px"  src="./Microsoft Badges/Badge_1.png" /></a>
+      <a href="https://github.com/user-attachments/assets/688bf2b9-8b54-49bb-8b4a-ec5919d3be69" target="_blank"> <img height ="150px"  src="./Microsoft Badges/Badge_2.png" /></a>
+      <a href="https://github.com/user-attachments/assets/fdc606fd-b72e-4470-ab84-4e7cf39b1c3f" target="_blank"> <img height ="150px"  src="./Microsoft Badges/Badge_3.png" /></a>
+  </div>
+ <br>
+
 
 
 <!--break line-->
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
 
 
 
