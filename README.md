@@ -67,7 +67,7 @@
 
 
 <!--my gitHub stats-->
-<h3 align="center">📊 My GitHub Stats: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">📊 GitHub Stats: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center">
 <table align="center">
   <tr border="none">
@@ -97,7 +97,7 @@
 
 
 <!--my repository-->
-<h3 align="center">🚀 My Repository: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">🚀 Repository: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <table align="center">
   <tr>
     <td>
@@ -119,7 +119,7 @@
 
 
 <!--my top contributed repo-->
-<h3 align="center">🌀 My Top Contributed Repo: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">🌀 Top Contributed Repo: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <div align="center">
   
 ![](https://github-contributor-stats.vercel.app/api?username=RavinduRB&limit=5&theme=algolia&combine_all_yearly_contributions=true)
@@ -134,7 +134,7 @@
 
 
 <!--my top contribution graph-->
-<h3 align="center">🔥 My Top Contribution Graph: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">🔥 Top Contribution Graph: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduRB&theme=react&area=true&order=5&bg_color=black" height="300" alt="activity-graph graph"  />
 
@@ -145,7 +145,7 @@
 
 
 <!--my certificates-->
-<h3 align="center">🎓 My Certificates: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">🎓 Certificates: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
       <a href="https://github.com/user-attachments/assets/642761a7-873b-4a7f-a0de-ac4374d2412d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_1.png" /></a>
       <a href="https://github.com/user-attachments/assets/aa20f2b6-219b-40eb-be3b-8d58ec06834e" target="_blank"> <img height ="150px"  src="./Certificates/certificate_2.png" /></a>
@@ -179,7 +179,7 @@
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 <!--my microsoft badges-->
-<h3 align="center">🏅 My Microsoft Badges: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">🏅 Microsoft Badges: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
       <a href="https://github.com/user-attachments/assets/20c87dae-5ffc-4d56-a83b-86b19b0cd4b4" target="_blank"> <img height ="150px"  src="./Microsoft Badges/Badge_1.png" /></a>
       <a href="https://github.com/user-attachments/assets/688bf2b9-8b54-49bb-8b4a-ec5919d3be69" target="_blank"> <img height ="150px"  src="./Microsoft Badges/Badge_2.png" /></a>
@@ -196,7 +196,7 @@
 
 
 <!--my trophies-->
-<h3 align="center">🏆 My Trophies: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">🏆 Trophies: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <img src="https://github-profile-trophy.vercel.app?username=RavinduRB&theme=discord&margin-w=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 
@@ -207,7 +207,7 @@
 
 
 <!--my random dev quote-->
-<h3 align="center">✍️ My Random Dev Quote: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">✍️ Random Dev Quote: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?font=Redressed?quoteCategory=success&theme=algolia&animation=grow_out_in)
 </div>
@@ -241,7 +241,7 @@
 
 
 <!--my tech stack-->
-<h3 align="center">💻 My Tech Stack: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">💻 Tech Stack: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Angular-Light.svg" alt="angular" width="50" height="50"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/></a>
