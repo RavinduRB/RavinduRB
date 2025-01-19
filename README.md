@@ -145,13 +145,13 @@
 
 <h3 align="center">🎨 Arts: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
-      <a href="https://github.com/user-attachments/assets/82b19e1b-418c-40e6-b5d8-009bfd9dc101" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_1.png" /></a>
-      <a href="https://github.com/user-attachments/assets/f51d873d-d794-4dc8-89d3-632f280b22ef" target="_blank"> <img height ="150px"  src="./Certificates/certificate_2.png" /></a>
-      <a href="https://github.com/user-attachments/assets/8fc3bb89-f724-43e7-9fdc-ed686d8e4db5" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_3.png" /></a>
-      <a href="https://github.com/user-attachments/assets/3140b515-fb5e-4267-92dd-46b722699a43" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_4.png" /></a>
-      <a href="https://github.com/user-attachments/assets/87ead621-0cc7-41d8-b3ed-20b104278ab5" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_5.png" /></a>
-      <a href="https://github.com/user-attachments/assets/3aa40475-b4fa-4530-8c69-c8538a4d8f3d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_6.png" /></a>
-      <a href="https://github.com/user-attachments/assets/c3d5b018-9788-4233-8d87-ea1e8809179e" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_7.png" /></a>
+      <a href="https://github.com/user-attachments/assets/82b19e1b-418c-40e6-b5d8-009bfd9dc101" target="_blank"> <img height ="190px"  src="./My Arts/02.jpg" /></a>
+      <a href="https://github.com/user-attachments/assets/f51d873d-d794-4dc8-89d3-632f280b22ef" target="_blank"> <img height ="190px"  src="./My Arts/03.jpg" /></a>
+      <a href="https://github.com/user-attachments/assets/8fc3bb89-f724-43e7-9fdc-ed686d8e4db5" target="_blank"> <img height ="190px"  src="./My Arts/04.jpg" /></a>
+      <a href="https://github.com/user-attachments/assets/3140b515-fb5e-4267-92dd-46b722699a43" target="_blank"> <img height ="190px"  src="./My Arts/01.jpg" /></a>
+      <a href="https://github.com/user-attachments/assets/87ead621-0cc7-41d8-b3ed-20b104278ab5" target="_blank"> <img height ="190px"  src="./My Arts/05.jpg" /></a>
+      <a href="https://github.com/user-attachments/assets/3aa40475-b4fa-4530-8c69-c8538a4d8f3d" target="_blank"> <img height ="190px"  src="./My Arts/07.jpg" /></a>
+      <a href="https://github.com/user-attachments/assets/c3d5b018-9788-4233-8d87-ea1e8809179e" target="_blank"> <img height ="190px"  src="./My Arts/06.jpg" /></a>
   </div>
     <br>
 
