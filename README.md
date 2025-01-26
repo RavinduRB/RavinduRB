@@ -27,6 +27,17 @@
   <a href="https://open.spotify.com/embed/track/5X3HN2ZNAcnwriB48pW5mw?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
 
+<!--profile details-->
+<p align="center">
+        <img src="https://img.shields.io/github/created-at/ravindurb/RavinduRB"/>
+        <img src="https://img.shields.io/github/commit-activity/m/ravindurb/RavinduRB"/>
+        <img src="https://img.shields.io/github/forks/ravindurb/RavinduRB"/>
+        <img src="https://img.shields.io/github/stars/ravindurb/RavinduRB"/>
+        <img src="https://img.shields.io/github/watchers/ravindurb/RavinduRB"/>
+        <img src="https://img.shields.io/github/followers/ravindurb"/>
+</p>
+
+
 <!--profile views-->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ravindurb&label=Profile%20views&color=0e75b6&style=flat" alt="ravindurb" /> 
@@ -136,7 +147,10 @@
 <!--my top contribution graph-->
 <h3 align="center">🔥 Top Contribution Graph: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduRB&theme=react&area=true&order=5&bg_color=black" height="300" alt="activity-graph graph"  />
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindurb&theme=react&hide_border=true&bg_color=0D1117)
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduRB&theme=react&area=true&order=5&bg_color=black" height="350" alt="activity-graph graph"  />
 
 
   
@@ -236,6 +250,7 @@
 
 
 <!--connect with me-->
+<!--
 <h3 align="center">🌐 Connect with me: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ravindu-bandara-bb9669320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
@@ -245,7 +260,15 @@
   <a href="https://www.instagram.com/ravindu._bandara?igsh=cWNrdTJicHhyMjNv" target="blank">
     <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
+-->
 
+<!--connect with me-->
+<h3 align="center">🌐 Connect with me: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/ravindu-bandara-bb9669320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
+<a href="https://www.facebook.com/share/2RPbTC3fkGbyreFF/?mibextid=qi2Omg" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70"></a>
+<a href="https://www.instagram.com/ravindu._bandara?igsh=cWNrdTJicHhyMjNv" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
+</p>
 
 
 
@@ -305,11 +328,16 @@
 
 | Title                          | Icon                                                                                                             |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------|
+| IDE's                          | <img src="https://skillicons.dev/icons?i=idea,pycharm,androidstudio,vscode,visualstudio" />                      |
+| App Development                | <img src="https://skillicons.dev/icons?i=dart,java,flutter" />                                                   |
+| Front End                      | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,js,react" />                                         |
+| Back End                       | <img src="https://skillicons.dev/icons?i=java,php,nodejs,mysql,mongodb,firebase,python" />                       |
 | Programming Languages          | <img src="https://skillicons.dev/icons?i=java,python,c#"/>                                                       |
 | Scripting Languages            | <img src="https://skillicons.dev/icons?i=html,css"/>                                                             |
 | Tools                          | <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio"/>                                            |
 | Databases                      | <img src="https://skillicons.dev/icons?i=mysql"/>                                                                |
 | Version Control                | <img src="https://skillicons.dev/icons?i=github,githubactions"/>                                                 |
+| favourite                      | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />                                                  |
 
 </div>
 
