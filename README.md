@@ -337,7 +337,7 @@
 | Tools                          | <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio"/>                                            |
 | Databases                      | <img src="https://skillicons.dev/icons?i=mysql"/>                                                                |
 | Version Control                | <img src="https://skillicons.dev/icons?i=github,githubactions"/>                                                 |
-| favourite                      | <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />                                                  |
+| favourite                      | <img src="https://skillicons.dev/icons?i=html,css,python" />                                                  |
 
 </div>
 
