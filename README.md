@@ -50,9 +50,9 @@
   <tr border="none">
   <td width="50%" align="left">
 
-- 🌱 I’m currently learning **C#, Python, HTML, CSS, JavaScript, PHP, Java**
+- 🌱 I’m currently learning **C++, Python, HTML, CSS, JavaScript, PHP**
 
-- 🧑‍🎓 I'm an undergraduate student of **NSBM Green University and University of Plymouth**
+- 🧑‍🎓 I'm a final year undergraduate student of **University of Plymouth**
 
 - 💬 Ask me about **HTML, CSS, Python**
 
