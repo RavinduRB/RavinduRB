@@ -13,6 +13,8 @@
 
 <!--Introduction-->
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="35" />, I'm Ravindu Bandara<img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="7%" width="7%"/></h1>
+
+<!--
 <p align="center" >
   <p align="center">
     <a href="https://github.com/oraclebrain/readme-typing-svg">
@@ -20,7 +22,7 @@
     </a>
   </p>
 </p>
-
+-->
 
 <!--Spotify Songs-->
 <p align="center">
