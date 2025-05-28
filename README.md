@@ -54,7 +54,7 @@
 
 - 🧑‍🎓 I'm an undergraduate student of **NSBM Green University and University of Plymouth**
 
-- 💬 Ask me about **JAVA, HTML, CSS**
+- 💬 Ask me about **HTML, CSS, Python**
 
 - ⚡ Call me as **Ravindu**
 
