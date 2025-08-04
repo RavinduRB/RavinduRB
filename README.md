@@ -175,6 +175,18 @@
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 
+<!--my awards-->
+<h3 align="center">🏅 Awards: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+  <div align="center">
+      <a href="https://github.com/user-attachments/assets/723e753c-5988-4189-9fb9-7517582ddfad" target="_blank"> <img height ="150px"  src="./Awards/Award_1.png" /></a>
+  </div>
+    <br>
+
+
+<!--break line-->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
+
 <!--my certificates-->
 <h3 align="center">🎓 Certificates: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
