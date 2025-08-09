@@ -26,7 +26,8 @@
 
 <!--Spotify Songs-->
 <p align="center">
-  <a href="https://open.spotify.com/embed/track/5X3HN2ZNAcnwriB48pW5mw?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
+  <a href="https://open.spotify.com/embed/track/5X3HN2ZNAcnwriB48pW5mw?utm_source=generator" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
 
 
 <!--profile details-->
