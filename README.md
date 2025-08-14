@@ -176,6 +176,84 @@
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 
+<!--All Results-->
+<h3 align="center">📚 All Results: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+
+<div align="center">
+
+<h4 align="center">📍Advance Certificate Program</h4>
+
+| Module                                  | Result |
+|-----------------------------------------|--------|
+| 🔹Application Development with Python     | **PASS**   |
+| 🔹Fundamentals of Mathematics             | **PASS**   |
+| 🔹Networks and Cyber Security             | **PASS**   |
+| 🔹Contemporary Topics in Computer Science | **PASS**   |
+
+
+<h4 align="center">📍1st Year - 1st Semester</h4>
+
+| Module                                  | Result |
+|-----------------------------------------|--------|
+| 🔹Introduction to Computer Science     | **A-**   |
+| 🔹Programming C             | **B+**   |
+| 🔹Mathematics for Computing             | **A**   |
+| 🔹Database Management Systems | **A-**   |
+| 🔹Introduction to Sustainability Development | **A**   |
+| 🔹Academic Writing and Communication | **C**   |
+| 🔹Professional Development | **A-**   |
+
+
+<h4 align="center">📍1st Year - 2nd Semester</h4>
+
+| Module                                  | Result |
+|-----------------------------------------|--------|
+| 🔹Computer Architecture     | **B-**   |
+| 🔹Algorithms and Data Structures             | **B-**   |
+| 🔹Object Oriented Programming With C#             | **B**   |
+| 🔹Web Based Application Development | **A**   |
+| 🔹System Analysis and Design | **B**   |
+
+
+<h4 align="center">📍2nd Year - 1st Semester</h4>
+
+| Module                                  | Result |
+|-----------------------------------------|--------|
+| 🔹Computing Group Project     | **A**   |
+| 🔹Information Management and Retreieval             | **A**   |
+| 🔹Introduction to IOT             | **A**   |
+| 🔹Software Engineering 2 | **A**   |
+
+
+<h4 align="center">📍2nd Year - 2nd Semester</h4>
+
+| Module                                  | Result |
+|-----------------------------------------|--------|
+| 🔹Computing Group Project     | **A**   |
+| 🔹Information Management and Retreieval             | **A**   |
+| 🔹Mobile Application Development             | **A**   |
+| 🔹Software Development tools and practices | **A**   |
+
+
+<h4 align="center">📍3rd Year - 1st and 2nd Semesters</h4>
+
+| Module                                  | Result |
+|-----------------------------------------|--------|
+| 🔹Computing Individual Project     | **Pending...**   |
+| 🔹Full Stack Development             | **Pending...**   |
+| 🔹AI and Machine Learning             | **Pending...**   |
+| 🔹Software Project Management | **Pending...**   |
+| 🔹HCI, Computer Graphics and Visualization | **Pending...**   |
+
+</div>
+
+
+
+<!--break line-->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
+
+
 <!--my awards-->
 <h3 align="center">🏅 Awards: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
@@ -226,7 +304,7 @@
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 <!--my microsoft badges-->
-<h3 align="center">🏅 Microsoft Badges: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">✨ Microsoft Badges: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
       <a href="https://github.com/user-attachments/assets/20c87dae-5ffc-4d56-a83b-86b19b0cd4b4" target="_blank"> <img height ="150px"  src="./Microsoft Badges/Badge_1.png" /></a>
       <a href="https://github.com/user-attachments/assets/688bf2b9-8b54-49bb-8b4a-ec5919d3be69" target="_blank"> <img height ="150px"  src="./Microsoft Badges/Badge_2.png" /></a>
