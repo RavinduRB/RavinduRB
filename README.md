@@ -322,7 +322,7 @@
 
 <!--my trophies-->
 <h3 align="center">🏆 Trophies: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
-  <img src="https://github-profile-trophy.vercel.app?username=RavinduRB&theme=discord&margin-w=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=RavinduRB&theme=discord&margin-w=8&no-bg=true&no-frame=false&order=4" height="200" alt="trophy graph"  />
 
 
 
