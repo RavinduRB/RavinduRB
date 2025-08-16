@@ -1,12 +1,3 @@
-<a href="https://github.com/user-attachments/assets/3835e215-3766-4034-bff2-f8ca3bd62110" target="_blank"> <img height ="190px"  src="./My Arts/08.jpg" /></a>
-<audio controls>
-  <source href="https://github.com/user-attachments/files/21815543/Aurora.Pulse.mp3" target="_blank" src="./EDM/Aurora Pulse.mp3" type="audio/mpeg">
-</audio>
-
-[Aurora Pulse.mp3](https://github.com/user-attachments/files/21815543/Aurora.Pulse.mp3)
-
-
-
 <!--Header-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
