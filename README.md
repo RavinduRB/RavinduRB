@@ -165,8 +165,11 @@
 <!--break line-->
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
+<!--My Arts-->
 <h3 align="center">🎨 Arts: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
+      <a href="https://github.com/user-attachments/assets/3835e215-3766-4034-bff2-f8ca3bd62110" target="_blank"> <img height ="190px"  src="./My Arts/08.jpg" /></a>
+      <a href="https://github.com/user-attachments/assets/4c99f806-2036-4125-8ef1-5ce2482d675a" target="_blank"> <img height ="190px"  src="./My Arts/09.jpg" /></a>    
       <a href="https://github.com/user-attachments/assets/82b19e1b-418c-40e6-b5d8-009bfd9dc101" target="_blank"> <img height ="190px"  src="./My Arts/02.jpg" /></a>
       <a href="https://github.com/user-attachments/assets/f51d873d-d794-4dc8-89d3-632f280b22ef" target="_blank"> <img height ="190px"  src="./My Arts/03.jpg" /></a>
       <a href="https://github.com/user-attachments/assets/8fc3bb89-f724-43e7-9fdc-ed686d8e4db5" target="_blank"> <img height ="190px"  src="./My Arts/04.jpg" /></a>
