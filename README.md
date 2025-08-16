@@ -1,8 +1,4 @@
 <!--Header-->
-<audio controls>
-  <source src="https://drive.google.com/file/d/1OI8dMBsu-CQTuhj4eefy-KoMzLn8lUQt/view?usp=drive_link" type="audio">
-</audio>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
 </p>
