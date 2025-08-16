@@ -188,23 +188,23 @@
 <h3 align="center">🎧 EDM Music: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
       <a href="https://drive.google.com/file/d/162DyRzhqub8DHS_YfNZ0qLMphOvC6ndM/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
-      <a href="https://drive.google.com/file/d/1ahqvpEMm6KfOVquyP6f2piYoyOKx1tpw/view?usp=sharing" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>    
-      <a href="https://github.com/user-attachments/assets/82b19e1b-418c-40e6-b5d8-009bfd9dc101" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/f51d873d-d794-4dc8-89d3-632f280b22ef" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/8fc3bb89-f724-43e7-9fdc-ed686d8e4db5" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/3140b515-fb5e-4267-92dd-46b722699a43" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/87ead621-0cc7-41d8-b3ed-20b104278ab5" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/3aa40475-b4fa-4530-8c69-c8538a4d8f3d" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/c3d5b018-9788-4233-8d87-ea1e8809179e" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/3835e215-3766-4034-bff2-f8ca3bd62110" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
-      <a href="https://github.com/user-attachments/assets/4c99f806-2036-4125-8ef1-5ce2482d675a" target="_blank"> </a>    
-      <a href="https://github.com/user-attachments/assets/82b19e1b-418c-40e6-b5d8-009bfd9dc101" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/f51d873d-d794-4dc8-89d3-632f280b22ef" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/8fc3bb89-f724-43e7-9fdc-ed686d8e4db5" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/3140b515-fb5e-4267-92dd-46b722699a43" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/87ead621-0cc7-41d8-b3ed-20b104278ab5" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/3aa40475-b4fa-4530-8c69-c8538a4d8f3d" target="_blank"> </a>
-      <a href="https://github.com/user-attachments/assets/c3d5b018-9788-4233-8d87-ea1e8809179e" target="_blank"> </a>
+      <a href="https://drive.google.com/file/d/1ahqvpEMm6KfOVquyP6f2piYoyOKx1tpw/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>    
+      <a href="https://drive.google.com/file/d/1JFEqLYeuJ3PSZp1MFyxXfSHaFvGiAoxQ/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/1Zh-nQbG1xRfPtSJasQwFRS2Mao5s-yXm/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/14v2e_q3KqEOgWBUqx9lryPeNiw0TOx8B/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/1jxmPU8njVaZl4TcqSek87MTcY-RP-mZQ/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/1iNeBTFHcVT1yexZ7QxqA62N0NwOuNJrF/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/1Fbwu_ezLFtgk91zFY16_gIhW295PkEVJ/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/1j9H5vtF-AzokSgBodA-hm8U3MBsGTKbC/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/1RPriNqhfRKzn9YGZ9gYvPgbGRUMqCnv0/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/1-q8a1A-dnM-ARWKsKf7ugDSzLOfUiDxm/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>    
+      <a href="https://drive.google.com/file/d/1sicokeKvps-VRsq6ODNg3meFHcxv8lBi/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/1iFV_9OtSk1MkkufmCn7xCDa4NypFySom/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/17COCwkBxOYYIJgYJpdYnbrB-PF08QbOg/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/1qOpexE78OBqenMqSDjDuy_aCfyUecUgk/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/15ckcx1gY2-q1uqQyrBi5NdOqycAXTtxB/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/1lk42V0ZAgIKSQtmnl_R1JpUZvSD7wO46/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/1g3fPPjOa5seDTTmzCz_fdLDMJO_kKUga/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
   </div>
     <br>
 
