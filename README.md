@@ -187,7 +187,7 @@
 <!--My EDM Music-->
 <h3 align="center">🎧 EDM Music: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
-      <a href="https://github.com/user-attachments/assets/3835e215-3766-4034-bff2-f8ca3bd62110" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/162DyRzhqub8DHS_YfNZ0qLMphOvC6ndM/view?usp=drive_link" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
       <a href="https://drive.google.com/file/d/1ahqvpEMm6KfOVquyP6f2piYoyOKx1tpw/view?usp=sharing" target="_blank"> <img width="139px" height="139.5px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>    
       <a href="https://github.com/user-attachments/assets/82b19e1b-418c-40e6-b5d8-009bfd9dc101" target="_blank"> </a>
       <a href="https://github.com/user-attachments/assets/f51d873d-d794-4dc8-89d3-632f280b22ef" target="_blank"> </a>
