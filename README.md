@@ -187,7 +187,7 @@
 <!--My EDM Music-->
 <h3 align="center">🎧 EDM Music: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
-      <a href="https://drive.google.com/file/d/162DyRzhqub8DHS_YfNZ0qLMphOvC6ndM/view?usp=drive_link" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
+      <a href="https://drive.google.com/file/d/162DyRzhqub8DHS_YfNZ0qLMphOvC6ndM/view?usp=drive_link" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bcf3743f-f6e4-4bf1-ba01-9a009c65104a" /></a>
       <a href="https://drive.google.com/file/d/1ahqvpEMm6KfOVquyP6f2piYoyOKx1tpw/view?usp=drive_link" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>    
       <a href="https://drive.google.com/file/d/1JFEqLYeuJ3PSZp1MFyxXfSHaFvGiAoxQ/view?usp=drive_link" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
       <a href="https://drive.google.com/file/d/1Zh-nQbG1xRfPtSJasQwFRS2Mao5s-yXm/view?usp=drive_link" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bdc59b8d-764b-42b6-ab30-315c6dc05bbf" /></a>
