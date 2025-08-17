@@ -187,6 +187,8 @@
 <!--My EDM Music-->
 <h3 align="center">🎧 EDM Music: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5P6vrgxvIxzCC0aX6JKX65?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <a href="https://open.spotify.com/embed/playlist/5P6vrgxvIxzCC0aX6JKX65?utm_source=generator" target="_blank"  width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" style="border-radius:12px"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/6c87193d-466a-4341-8cc8-0d9498100a6e" /></a>
       <a href="https://drive.google.com/file/d/162DyRzhqub8DHS_YfNZ0qLMphOvC6ndM/view?usp=drive_link" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/6c87193d-466a-4341-8cc8-0d9498100a6e" /></a>
       <a href="https://drive.google.com/file/d/1ahqvpEMm6KfOVquyP6f2piYoyOKx1tpw/view?usp=drive_link" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/b5ada1b9-7a07-4a5c-b118-6a5337bf6b93" /></a>    
       <a href="https://drive.google.com/file/d/1JFEqLYeuJ3PSZp1MFyxXfSHaFvGiAoxQ/view?usp=drive_link" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/3c0eccab-6d60-4c9c-9224-7565ce098048" /></a>
