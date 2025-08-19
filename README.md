@@ -1,6 +1,6 @@
-<audio autoplay loop muted>
-  <source src="./Assets/song.mp3" type="audio/mpeg">
-</audio>
+
+
+[▶️ Click to listen](https://RavinduRB.github.io/Assets/song.mp3)
 
 
 
