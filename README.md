@@ -1,3 +1,16 @@
+<audio autoplay loop muted>
+  <source src="./Assets/song.mp3" type="audio/mpeg">
+</audio>
+<script>
+  // Try unmuting after page load
+  window.addEventListener("click", () => {
+    const audio = document.querySelector("audio");
+    audio.muted = false;
+    audio.play();
+  });
+</script>
+
+
 <!--Header-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
