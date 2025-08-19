@@ -1,7 +1,104 @@
+[index.html](https://github.com/user-attachments/files/21867838/index.html)
+
+[▶️ Click to listen](https://github.com/user-attachments/files/21867838/index.html)
+
+[Uploading index.ht<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>My Portfolio</title>
+  <style>
+    html, body { margin: 0; padding: 0; font-family: system-ui, sans-serif; }
+    .unmute-overlay {
+      position: fixed; inset: 0; display: flex; align-items: center; justify-content: center;
+      background: rgba(0,0,0,0.6); color: #fff; gap: .75rem; flex-direction: column;
+      text-align: center; padding: 1rem; cursor: pointer; user-select: none;
+      transition: opacity .25s ease;
+    }
+    .hidden { opacity: 0; pointer-events: none; }
+    .btn {
+      background: #fff; color: #000; padding: .6rem 1rem; border-radius: 9999px; font-weight: 600;
+    }
+    /* optional: hide native controls; remove this if you want visible controls */
+    audio { position: absolute; width: 0; height: 0; opacity: 0; }
+  </style>
+</head>
+<body>
+<br>
+<br>
+<br>
+<br>
+<!--Header-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
+</p>
 
 
-[▶️ Click to listen](https://clikme.tiiny.site)
+<!--first gif-->
+<p align="center" >
+  <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px>
+</p>
 
+
+
+<!--Introduction-->
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="35" />, I'm Ravindu Bandara<img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="7%" width="7%"/></h1>
+
+<!--About Me-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=500&lines=Software+Engineer;Trainee+Full+Stack+Developer;AI+%26+ML+Engineer;Maths+Lover;EDM+Producer;Artist" alt="Typing SVG" />
+</p>
+
+<!--footer-->
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+  <audio id="bgm" autoplay loop muted playsinline preload="auto">
+    <source src="Assets/song.mp3" type="audio/mpeg">
+  </audio>
+
+  <div id="overlay" class="unmute-overlay">
+    <div style="font-size:2rem">🔊 Tap to unmute</div>
+  </div>
+
+  <script>
+    const audio = document.getElementById('bgm');
+    const overlay = document.getElementById('overlay');
+
+    // Try to start muted autoplay as soon as possible
+    const tryPlay = () => audio.play().catch(() => { /* expected on some browsers */ });
+
+    // If it’s already playing muted, keep overlay (user can unmute)
+    document.addEventListener('DOMContentLoaded', tryPlay);
+
+    // Any user gesture: unmute and play
+    const enableSound = async () => {
+      try {
+        audio.muted = false;
+        await audio.play();
+        overlay.classList.add('hidden');
+        // Remove listeners once enabled
+        window.removeEventListener('pointerdown', enableSound);
+        window.removeEventListener('keydown', enableSound);
+      } catch (e) {
+        // If play still fails, keep overlay visible
+        console.debug('Playback failed until further interaction', e);
+      }
+    };
+
+    window.addEventListener('pointerdown', enableSound);
+    window.addEventListener('keydown', enableSound);
+
+    // If user switches tabs and comes back, keep it going
+    document.addEventListener('visibilitychange', () => {
+      if (document.visibilityState === 'visible' && !audio.muted) tryPlay();
+    });
+  </script>
+</body>
+</html>
+ml…]()
 
 
 <!--Header-->
