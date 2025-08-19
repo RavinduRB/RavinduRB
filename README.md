@@ -1,34 +1,3 @@
-[index.html](https://github.com/user-attachments/files/21867838/index.html)
-
-[▶️ Click to listen](https://github.com/user-attachments/files/21867838/index.html)
-
-[Uploading index.ht<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>My Portfolio</title>
-  <style>
-    html, body { margin: 0; padding: 0; font-family: system-ui, sans-serif; }
-    .unmute-overlay {
-      position: fixed; inset: 0; display: flex; align-items: center; justify-content: center;
-      background: rgba(0,0,0,0.6); color: #fff; gap: .75rem; flex-direction: column;
-      text-align: center; padding: 1rem; cursor: pointer; user-select: none;
-      transition: opacity .25s ease;
-    }
-    .hidden { opacity: 0; pointer-events: none; }
-    .btn {
-      background: #fff; color: #000; padding: .6rem 1rem; border-radius: 9999px; font-weight: 600;
-    }
-    /* optional: hide native controls; remove this if you want visible controls */
-    audio { position: absolute; width: 0; height: 0; opacity: 0; }
-  </style>
-</head>
-<body>
-<br>
-<br>
-<br>
-<br>
 <!--Header-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
