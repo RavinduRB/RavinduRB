@@ -271,16 +271,22 @@
 | 🔹Software Development tools and practices | **A**   |
 
 
-<h4 align="center">📍3rd Year - 1st and 2nd Semesters</h4>
+<h4 align="center">📍3rd Year - 1st Semester</h4>
 
 | Module                                  | Result |
 |-----------------------------------------|--------|
-| 🔹Computing Individual Project     | **Pending...**   |
-| 🔹Full Stack Development             | **Pending...**   |
-| 🔹AI and Machine Learning             | **Pending...**   |
-| 🔹Software Project Management | **Pending...**   |
-| 🔹HCI, Computer Graphics and Visualization | **Pending...**   |
+| 🔹Computing Project     | **Pending** <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="13"/>   |
+| 🔹Full Stack Development             | **Pending** <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="13"/>   |
+| 🔹AI and Machine Learning             | **Pending** <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="13"/>   |
 
+
+<h4 align="center">📍3rd Year - 2nd Semester</h4>
+
+| Module                                  | Result |
+|-----------------------------------------|--------|
+| 🔹Computing Project     | **Pending** <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="13"/>   |
+| 🔹Software Project Management | **Pending** <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="13"/>   |
+| 🔹HCI, Computer Graphics and Visualization | **Pending** <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="13"/>   |
 </div>
 
 
