@@ -275,18 +275,18 @@
 
 | Module                                  | Result |
 |-----------------------------------------|--------|
-| 🔹Computing Project     | **Pending** <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="13"/>   |
-| 🔹Full Stack Development             | **Pending** <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="13"/>   |
-| 🔹AI and Machine Learning             | **Pending** <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="13"/>   |
+| 🔹Computing Project     | **Pending...**   |
+| 🔹Full Stack Development             | **Pending...**   |
+| 🔹AI and Machine Learning             | **Pending...**   |
 
 
 <h4 align="center">📍3rd Year - 2nd Semester</h4>
 
 | Module                                  | Result |
 |-----------------------------------------|--------|
-| 🔹Computing Project     | **Pending** <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="13"/>   |
-| 🔹Software Project Management | **Pending** <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="13"/>   |
-| 🔹HCI, Computer Graphics and Visualization | **Pending** <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="13"/>   |
+| 🔹Computing Project     | **Pending...**   |
+| 🔹Software Project Management | **Pending...**   |
+| 🔹HCI, Computer Graphics and Visualization | **Pending...**   |
 </div>
 
 
