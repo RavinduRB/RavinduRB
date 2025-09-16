@@ -300,6 +300,7 @@
 <h3 align="center">🏅 Awards: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
       <a href="https://github.com/user-attachments/assets/723e753c-5988-4189-9fb9-7517582ddfad" target="_blank"> <img height ="150px"  src="./Awards/Award_1.png" /></a>
+      <a href="https://github.com/user-attachments/assets/b2b47adc-e489-4ef4-aa74-69d7099dca87" target="_blank"> <img height ="150px"  src="./Awards/Art_Medal.png" /></a>
   </div>
     <br>
 
@@ -314,6 +315,7 @@
       <a href="https://github.com/user-attachments/assets/4f59bbc3-0e06-4861-85d1-53c518974d6c" target="_blank"> <img height ="150px"  src="./Certificates/IQ_Level_Certificate.png" /></a>
       <a href="https://github.com/user-attachments/assets/642761a7-873b-4a7f-a0de-ac4374d2412d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_26.png" /></a>
       <a href="https://github.com/user-attachments/assets/642761a7-873b-4a7f-a0de-ac4374d2412d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_27.png" /></a>
+      <a href="https://github.com/user-attachments/assets/9eac0c25-162c-4221-b4af-b1d75658eb4f" target="_blank"> <img height ="150px"  src="./Certificates/Art_Certificate" /></a>
       <a href="https://github.com/user-attachments/assets/642761a7-873b-4a7f-a0de-ac4374d2412d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_1.png" /></a>
       <a href="https://github.com/user-attachments/assets/aa20f2b6-219b-40eb-be3b-8d58ec06834e" target="_blank"> <img height ="150px"  src="./Certificates/certificate_2.png" /></a>
       <!--<a href="https://github.com/user-attachments/assets/c9bab3f5-d08b-4d88-824a-8a58193caa28" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_3.png" /></a>-->
