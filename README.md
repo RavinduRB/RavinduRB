@@ -314,7 +314,7 @@
 <!--my certificates-->
 <h3 align="center">🎓 Certificates: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
-      <a href="https://github.com/user-attachments/assets/4f59bbc3-0e06-4861-85d1-53c518974d6c" target="_blank"> <img height ="150px"  src="./Certificates/IQ_Level_Certificate.png" /></a>
+      <a href="https://github.com/user-attachments/assets/4f59bbc3-0e06-4861-85d1-53c518974d6c" target="_blank"> <img height ="150px"  src="./Certificates/IQ_Level.png" /></a>
       <a href="https://github.com/user-attachments/assets/642761a7-873b-4a7f-a0de-ac4374d2412d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_26.png" /></a>
       <a href="https://github.com/user-attachments/assets/642761a7-873b-4a7f-a0de-ac4374d2412d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_27.png" /></a>
       <a href="https://github.com/user-attachments/assets/340af923-05e0-495b-9038-13e713940827" target="_blank"> <img height ="150px"  src="./Certificates/Art_Certificate.png" /></a>
