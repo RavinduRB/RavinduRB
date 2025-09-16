@@ -301,6 +301,7 @@
   <div align="center">
       <a href="https://github.com/user-attachments/assets/723e753c-5988-4189-9fb9-7517582ddfad" target="_blank"> <img height ="150px"  src="./Awards/Award_1.png" /></a>
       <a href="https://github.com/user-attachments/assets/b2b47adc-e489-4ef4-aa74-69d7099dca87" target="_blank"> <img height ="150px"  src="./Awards/Art_Medal.png" /></a>
+      <a href="https://github.com/user-attachments/assets/54ae2095-593e-4208-b98d-c46a256bb0cb" target="_blank"> <img height ="150px"  src="./Awards/Art_Medal_2.png" /></a>
   </div>
     <br>
 
