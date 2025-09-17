@@ -208,11 +208,11 @@
   </div>
     <br>
 
-<!--break line-->
+<!--break line
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 
-<!--All Results-->
+<!--All Results
 <h3 align="center">📚 All Results: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
 <div align="center">
@@ -288,7 +288,7 @@
 | 🔹Software Project Management | **Pending...**   |
 | 🔹HCI, Computer Graphics and Visualization | **Pending...**   |
 </div>
-
+-->
 
 
 <!--break line-->
