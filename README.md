@@ -185,26 +185,11 @@
 
 
 <!--My EDM Music-->
-<h3 align="center">🎧 EDM Music: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">🎧 Music: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
-      <a href="https://youtube.com/shorts/es5-3NdrG2A?si=97ks8dr_HgwPcuh3" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/6c87193d-466a-4341-8cc8-0d9498100a6e" /></a>
-      <a href="https://youtube.com/shorts/PMCIKiyd8b0?si=Xeiv-HLkpVybV4m0" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/b5ada1b9-7a07-4a5c-b118-6a5337bf6b93" /></a>    
-      <a href="https://youtu.be/wY_MboIyLpc?si=WaCGbKI5ouoJNu9J" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/f97688eb-e1c4-4474-be53-4cd18c841fdb" /></a>
-      <a href="https://youtube.com/shorts/DfDgDobTjwE?si=gEf39DjWKTtnIj82" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/fd2882a3-7743-4815-af38-60b70fbfb40e" /></a>
-      <a href="https://youtube.com/shorts/k4hYHdQ_EV0?si=XRia6OKijOq-Y7rS" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/2334bedd-792c-4f53-9fec-ecb58548577b" /></a>
-      <a href="https://youtube.com/shorts/29v5TL-di9w?si=eCN_hMzcHrSEjOWX" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/33c120e1-8bb6-45ae-8523-81129a47e0be" /></a>
-      <a href="https://youtube.com/shorts/09PLjEmJ_IY?si=Hxm39VatfnM65cdC" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/6cf265a0-29e9-4cc4-8185-62fccc9c06b7" /></a>
-      <a href="https://youtube.com/shorts/4PYRE8630q4?si=2xfxmIY2fmgeP8zw" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/d0608a61-8289-41c6-870e-0dc829d7c494" /></a>
-      <a href="https://youtube.com/shorts/patE7Vdu-g4?si=vZbs8VZY1KeiF77f" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/20d50e96-db4a-4ba9-b58f-04bf792f6d74" /></a>
-      <a href="https://youtu.be/uoMOdn_o0DY?si=ZbVmMaxad6rqcnIo" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/115bfa1b-160a-41c0-9fbf-c91ebb356f89" /></a>
-      <a href="https://youtube.com/shorts/xFvSy1_GGr0?si=WlY0eP0HyHCC01NZ" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/9f93bb79-e239-4f90-a0f5-b84105a9ef97" /></a>    
-      <a href="https://youtube.com/shorts/9t0OQqokF8Q?si=yHbQGDgRzytah4Xc" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/4dc28ffe-676c-4a24-8fc5-94d4cda84f28" /></a>
-      <a href="https://youtube.com/shorts/cABlO-VjdCo?si=NhmtthxShu-0Qk2K" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/bfec1b5e-b580-49c8-a37d-712d52d610b1" /></a>
-      <a href="https://youtube.com/shorts/xpMpeoU_Kz4?si=GZQDZQxFKOKNYEvz" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/9ffbf5af-009b-4c66-b1ea-85d0f360f91c" /></a>
-      <a href="https://youtube.com/shorts/8zv85Adr7e0?si=j1AEUtN-Cgz1-LxL" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/1c6e540a-59d9-41c8-baca-f95e0a81d83e" /></a>
-      <a href="https://youtube.com/shorts/NcpLYZXUulM?si=ApK0MyF5ReYvOxGT" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/6d2c2299-8127-40ff-8049-ce8a2391152b" /></a>
-      <a href="https://youtube.com/shorts/BXRx4w8z3c0?si=OkoyMrNQB5PGp78u" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/4af882ed-30da-46b6-8d41-c9e507600102" /></a>
-      <a href="https://youtube.com/shorts/LvBhNs08WAs?si=xGWJMV3FeD8HBMEY" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/0dc4fd6f-b76f-490e-bdae-825f29a87c89" /></a>
+      <a href="https://youtu.be/RnY4OahJS5U?si=0sNIsDmu6jrix8Lt" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/6d2c2299-8127-40ff-8049-ce8a2391152b" /></a>
+      <a href="https://youtu.be/4LYE6xtF1Pg?si=HYTjmWvjLcxRdNze" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/0dc4fd6f-b76f-490e-bdae-825f29a87c89" /></a>
+      <a href="https://youtube.com/shorts/LvBhNs08WAs?si=k653kD3s2fRhcMpw" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/1c6e540a-59d9-41c8-baca-f95e0a81d83e" /></a>
   </div>
     <br>
 
