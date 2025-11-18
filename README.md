@@ -58,11 +58,11 @@
   <tr border="none">
   <td width="50%" align="left">
 
-- 🌱 I’m currently learning **C++, Python, HTML, CSS, JavaScript, PHP**
+- 🌱 I’m currently learning **Python, Matlab, C++, React, MERN Stack**
 
 - 🧑‍🎓 I'm a final year undergraduate student of **University of Plymouth**
 
-- 💬 Ask me about **HTML, CSS, Python**
+- 💬 Ask me about **HTML, CSS, Python, Maths**
 
 - ⚡ Call me as **Ravindu**
 
