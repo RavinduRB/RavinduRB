@@ -16,7 +16,7 @@
 
 <!--About Me-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=500&lines=Software+Engineer;Trainee+Full+Stack+Developer;AI+%26+ML+Engineer;Maths+Lover;EDM+Producer;Artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=500&lines=Software+Engineer;Trainee+Full+Stack+Developer;AI+%26+ML+Engineer;Robotics+Developer;Maths+Lover;EDM+Producer;Artist" alt="Typing SVG" />
 </p>
 
 <!--
