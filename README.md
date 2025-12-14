@@ -187,9 +187,9 @@
 <!--Music-->
 <h3 align="center">🎧 Music: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
+      <a href="https://youtu.be/x4maoo4A3x4?si=gY5xtypy9aQgDyfT" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/e7ed2425-bf10-4db4-94e8-1116166540fe" /></a>    
       <a href="https://youtu.be/bLWXNqX3O4o?si=1gUXDB7sG0gUDmet" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/53199ddc-83ad-4071-a222-86fe05d1521d" /></a>
       <a href="https://youtu.be/wOq68p8PRgk?si=9YpMLTIorqkZROvJ" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/98e95c72-7618-45b9-b66d-a5ec9bb9c51d" /></a>
-      <a href="https://youtu.be/x4maoo4A3x4?si=gY5xtypy9aQgDyfT" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/e7ed2425-bf10-4db4-94e8-1116166540fe" /></a>
   </div>
     <br>
 
