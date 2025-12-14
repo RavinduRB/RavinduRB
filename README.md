@@ -184,9 +184,6 @@
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 
-<img width="436" height="435" alt="A" src="https://github.com/user-attachments/assets/e7ed2425-bf10-4db4-94e8-1116166540fe" />
-
-
 <!--Music-->
 <h3 align="center">🎧 Music: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
