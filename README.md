@@ -64,7 +64,7 @@
 
 - 💬 Ask me about **HTML, CSS, Python, Maths, Docker**
 
-- ⚡ **"Silent but Dangerous, Alone but Powerful"** - Finch -
+- ⚡ **"Silent but Dangerous, Alone but Powerful"** - Finch
 
 
 
