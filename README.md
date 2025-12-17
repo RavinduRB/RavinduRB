@@ -64,7 +64,7 @@
 
 - 💬 Ask me about **HTML, CSS, Python, Maths, Docker**
 
-- ⚡ Call me as **Ravindu**
+- ⚡ **"Silent but Dangerous, Alone but Powerful"** -Finch
 
 
 
