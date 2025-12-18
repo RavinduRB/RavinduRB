@@ -181,16 +181,23 @@
 
 <!--break line-->
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
-![Another_day](https://github.com/user-attachments/assets/75ad4c65-dbc5-4a19-9175-ecba513ddcb9)
+
+![All I need](https://github.com/user-attachments/assets/945a1ae5-6ec2-471d-8e7e-64b9a59789fc)
 
 
 <!--Music-->
 <h3 align="center">🎧 Music: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
-      <a href="https://youtu.be/x4maoo4A3x4?si=gY5xtypy9aQgDyfT" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/e7ed2425-bf10-4db4-94e8-1116166540fe" /></a>    
-      <a href="https://youtu.be/bLWXNqX3O4o?si=1gUXDB7sG0gUDmet" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/53199ddc-83ad-4071-a222-86fe05d1521d" /></a>
-      <a href="https://youtu.be/wOq68p8PRgk?si=9YpMLTIorqkZROvJ" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/98e95c72-7618-45b9-b66d-a5ec9bb9c51d" /></a>
+      <a href="https://youtu.be/x4maoo4A3x4?si=gY5xtypy9aQgDyfT" target="_blank"> <img width="100px" height="101px" alt="Sadness" src="https://github.com/user-attachments/assets/e7ed2425-bf10-4db4-94e8-1116166540fe" /></a>    
+      <a href="https://youtu.be/bLWXNqX3O4o?si=1gUXDB7sG0gUDmet" target="_blank"> <img width="100px" height="101px" alt="You (Jaydii)" src="https://github.com/user-attachments/assets/53199ddc-83ad-4071-a222-86fe05d1521d" /></a>
+      <a href="https://youtu.be/wOq68p8PRgk?si=9YpMLTIorqkZROvJ" target="_blank"> <img width="100px" height="101px" alt="Comedown" src="https://github.com/user-attachments/assets/98e95c72-7618-45b9-b66d-a5ec9bb9c51d" /></a>
       <a href="https://youtu.be/Qt2mbGP6vFI?si=bHvqeR3zjWZE3nqo" target="_blank"> <img width="100px" height="101px" alt="Another Day In Paradise" src="https://github.com/user-attachments/assets/75ad4c65-dbc5-4a19-9175-ecba513ddcb9" /></a>
+      <a href="https://youtu.be/mvwysPNdthM?si=rJIOQkJ2CpcmsJkY" target="_blank"> <img width="100px" height="101px" alt="May it be" src="https://github.com/user-attachments/assets/b0138b41-3506-48c1-830f-41b10f3b8cbe" /></a>
+      <a href="https://youtu.be/W5guhMw_EH0?si=fZ_ASWvXhELz1Da5" target="_blank"> <img width="100px" height="101px" alt="Forever young" src="https://github.com/user-attachments/assets/03bf18c4-bef8-4f5c-b6d4-67431f135098" /></a>
+      <a href="https://youtu.be/GIM3AnM0Awg?si=8EFFjGGoj9VYHVg_" target="_blank"> <img width="100px" height="101px" alt="One day angel" src="https://github.com/user-attachments/assets/282fb2ca-cbf3-4a41-ad24-d850373e87fc" /></a>
+      <a href="https://youtu.be/SJxOaqjeeQ4?si=UyWe0JNsdIJ-mCUO" target="_blank"> <img width="100px" height="101px" alt="Mystique" src="https://github.com/user-attachments/assets/76d70826-dd23-4c44-bfd5-d203870b51fb" /></a>
+      <a href="https://youtu.be/Ru57E789gdY?si=7v_RLebikp99Hlgn" target="_blank"> <img width="100px" height="101px" alt="Idea 22" src="https://github.com/user-attachments/assets/20c1e66a-8435-4ccf-898d-bd415b7b9780" /></a>
+      <a href="https://youtu.be/BSEe5hoTrwM?si=tnXWa7vMb1iA5ZL0" target="_blank"> <img width="100px" height="101px" alt="All I Need" src="https://github.com/user-attachments/assets/945a1ae5-6ec2-471d-8e7e-64b9a59789fc" /></a>
   </div>
     <br>
 
