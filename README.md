@@ -182,7 +182,6 @@
 <!--break line-->
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
-![All I need](https://github.com/user-attachments/assets/945a1ae5-6ec2-471d-8e7e-64b9a59789fc)
 
 
 <!--Music-->
