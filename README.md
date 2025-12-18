@@ -181,6 +181,7 @@
 
 <!--break line-->
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+![Another_day](https://github.com/user-attachments/assets/75ad4c65-dbc5-4a19-9175-ecba513ddcb9)
 
 
 <!--Music-->
@@ -189,6 +190,7 @@
       <a href="https://youtu.be/x4maoo4A3x4?si=gY5xtypy9aQgDyfT" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/e7ed2425-bf10-4db4-94e8-1116166540fe" /></a>    
       <a href="https://youtu.be/bLWXNqX3O4o?si=1gUXDB7sG0gUDmet" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/53199ddc-83ad-4071-a222-86fe05d1521d" /></a>
       <a href="https://youtu.be/wOq68p8PRgk?si=9YpMLTIorqkZROvJ" target="_blank"> <img width="100px" height="101px" alt="Cover Photo" src="https://github.com/user-attachments/assets/98e95c72-7618-45b9-b66d-a5ec9bb9c51d" /></a>
+      <a href="https://youtu.be/Qt2mbGP6vFI?si=bHvqeR3zjWZE3nqo" target="_blank"> <img width="100px" height="101px" alt="Another Day In Paradise" src="https://github.com/user-attachments/assets/75ad4c65-dbc5-4a19-9175-ecba513ddcb9" /></a>
   </div>
     <br>
 
