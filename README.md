@@ -184,94 +184,15 @@
 
 
 
+
 <!--Music-->
 <h3 align="center">🎧 Music: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
-    <video align="center" alt="Coding" width="420px" height="270px" src="https://github.com/user-attachments/assets/919e0d82-3ec7-40ab-8049-8d0e2fe58abb"></video>
+    <video align="center" alt="Coding" width="420px" height="270px" src="https://github.com/user-attachments/assets/6f73eef8-0af0-44ec-b62f-6de3bc6249b4
+"></video>
   </div>
     <br>
       
-<!--break line
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
-
-
-<!--All Results
-<h3 align="center">📚 All Results: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
-
-<div align="center">
-
-<h4 align="center">📍Advance Certificate Program</h4>
-
-| Module                                  | Result |
-|-----------------------------------------|--------|
-| 🔹Application Development with Python     | **PASS**   |
-| 🔹Fundamentals of Mathematics             | **PASS**   |
-| 🔹Networks and Cyber Security             | **PASS**   |
-| 🔹Contemporary Topics in Computer Science | **PASS**   |
-
-
-<h4 align="center">📍1st Year - 1st Semester</h4>
-
-| Module                                  | Result |
-|-----------------------------------------|--------|
-| 🔹Introduction to Computer Science     | **A-**   |
-| 🔹Programming C             | **B+**   |
-| 🔹Mathematics for Computing             | **A**   |
-| 🔹Database Management Systems | **A-**   |
-| 🔹Introduction to Sustainability Development | **A**   |
-| 🔹Academic Writing and Communication | **C**   |
-| 🔹Professional Development | **A-**   |
-
-
-<h4 align="center">📍1st Year - 2nd Semester</h4>
-
-| Module                                  | Result |
-|-----------------------------------------|--------|
-| 🔹Computer Architecture     | **B-**   |
-| 🔹Algorithms and Data Structures             | **B-**   |
-| 🔹Object Oriented Programming With C#             | **B**   |
-| 🔹Web Based Application Development | **A**   |
-| 🔹System Analysis and Design | **B**   |
-
-
-<h4 align="center">📍2nd Year - 1st Semester</h4>
-
-| Module                                  | Result |
-|-----------------------------------------|--------|
-| 🔹Computing Group Project     | **A**   |
-| 🔹Information Management and Retreieval             | **A**   |
-| 🔹Introduction to IOT             | **A**   |
-| 🔹Software Engineering 2 | **A**   |
-
-
-<h4 align="center">📍2nd Year - 2nd Semester</h4>
-
-| Module                                  | Result |
-|-----------------------------------------|--------|
-| 🔹Computing Group Project     | **A**   |
-| 🔹Information Management and Retreieval             | **A**   |
-| 🔹Mobile Application Development             | **A**   |
-| 🔹Software Development tools and practices | **A**   |
-
-
-<h4 align="center">📍3rd Year - 1st Semester</h4>
-
-| Module                                  | Result |
-|-----------------------------------------|--------|
-| 🔹Computing Project     | **Pending...**   |
-| 🔹Full Stack Development             | **Pending...**   |
-| 🔹AI and Machine Learning             | **Pending...**   |
-
-
-<h4 align="center">📍3rd Year - 2nd Semester</h4>
-
-| Module                                  | Result |
-|-----------------------------------------|--------|
-| 🔹Computing Project     | **Pending...**   |
-| 🔹Software Project Management | **Pending...**   |
-| 🔹HCI, Computer Graphics and Visualization | **Pending...**   |
-</div>
--->
 
 
 <!--break line-->
