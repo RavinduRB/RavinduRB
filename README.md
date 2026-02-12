@@ -183,15 +183,8 @@
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 
-
-
-<!--Music
-<h3 align="center">🎧 Music: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
-https://github.com/user-attachments/assets/6f73eef8-0af0-44ec-b62f-6de3bc6249b4-->
-
 <br>
       
-
 
 <!--break line-->
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
