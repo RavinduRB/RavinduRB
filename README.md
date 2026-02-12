@@ -187,11 +187,9 @@
 
 <!--Music-->
 <h3 align="center">🎧 Music: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
-  <div align="center">
-    <video align="center" alt="Coding" width="420px" height="270px" src="https://github.com/user-attachments/assets/6f73eef8-0af0-44ec-b62f-6de3bc6249b4
-"></video>
-  </div>
-    <br>
+https://github.com/user-attachments/assets/6f73eef8-0af0-44ec-b62f-6de3bc6249b4
+
+<br>
       
 
 
