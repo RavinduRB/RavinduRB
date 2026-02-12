@@ -177,10 +177,6 @@
       <a href="https://github.com/user-attachments/assets/3aa40475-b4fa-4530-8c69-c8538a4d8f3d" target="_blank"> <img height ="190px"  src="./My Arts/07.jpg" /></a>
       <a href="https://github.com/user-attachments/assets/c3d5b018-9788-4233-8d87-ea1e8809179e" target="_blank"> <img height ="190px"  src="./My Arts/06.jpg" /></a>
   </div>
-    <br>
-
-<!--break line-->
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 
 <br>
