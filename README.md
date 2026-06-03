@@ -204,11 +204,11 @@
 <!--my certificates-->
 <h3 align="center">🎓 Certificates: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
-      <a href="https://github.com/user-attachments/assets/d7aa3c99-dc58-4635-ad5b-6ec2f1e252ac" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_generative_AI_and_agents.png" /></a>
-      <a href="https://github.com/user-attachments/assets/7c8f5301-2d2c-472d-99e0-4bc88d4c18f0" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_generative_AI_and_agents_in_Azure.png" /></a>
-      <a href="https://github.com/user-attachments/assets/1c22a1b6-ca41-46c7-85d6-b1027991d52b" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_Azure.png" /></a>
-      <a href="https://github.com/user-attachments/assets/2c0d2ebb-c28e-4d09-ae0b-b5e9ed03c373" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_Claude_101.png" /></a>
       <a href="https://github.com/user-attachments/assets/283bc6f5-a7f1-4bd1-9bbf-08d5c71e63ec" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_Claude_Code_101.png" /></a>
+      <a href="https://github.com/user-attachments/assets/2c0d2ebb-c28e-4d09-ae0b-b5e9ed03c373" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_Claude_101.png" /></a>
+      <a href="https://github.com/user-attachments/assets/1c22a1b6-ca41-46c7-85d6-b1027991d52b" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_Azure.png" /></a>
+      <a href="https://github.com/user-attachments/assets/7c8f5301-2d2c-472d-99e0-4bc88d4c18f0" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_generative_AI_and_agents_in_Azure.png" /></a>    
+      <a href="https://github.com/user-attachments/assets/d7aa3c99-dc58-4635-ad5b-6ec2f1e252ac" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_generative_AI_and_agents.png" /></a>
       <a href="https://github.com/user-attachments/assets/86e9fd9c-2a09-4c37-9af8-f3e5ca775deb" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_IQ.png" /></a>
       <a href="https://github.com/user-attachments/assets/642761a7-873b-4a7f-a0de-ac4374d2412d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_26.png" /></a>
       <a href="https://github.com/user-attachments/assets/642761a7-873b-4a7f-a0de-ac4374d2412d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_27.png" /></a>
