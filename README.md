@@ -204,6 +204,8 @@
 <!--my certificates-->
 <h3 align="center">🎓 Certificates: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
+      <a href="https://github.com/user-attachments/assets/1cdf54fb-d85c-46c0-aeab-d4b88f1b3272" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_Claude_Code_in_Action.png" /></a>
+      <a href="https://github.com/user-attachments/assets/3aa09a0d-2e5c-4715-be87-6c869e1b086f" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_Introduction_to_Claude_Cowork.png" /></a>
       <a href="https://github.com/user-attachments/assets/e6ac246c-5d12-4286-8f4d-faff2693b513" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_Practical_GitHub_Copilot.png" /></a>
       <a href="https://github.com/user-attachments/assets/283bc6f5-a7f1-4bd1-9bbf-08d5c71e63ec" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_Claude_Code_101.png" /></a>
       <a href="https://github.com/user-attachments/assets/2c0d2ebb-c28e-4d09-ae0b-b5e9ed03c373" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_Claude_101.png" /></a>
