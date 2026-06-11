@@ -1,22 +1,22 @@
 <!--Header-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ravindu%20Bandara&fontSize=78&animation=twinkling&fontColor=ffffff" width="100%"/>
 </p>
 
 
-<!--first gif-->
+<!--first gif
 <p align="center" >
   <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px>
-</p>
+</p>-->
 
 
 
 <!--Introduction-->
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="35" />, I'm Ravindu Bandara<img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="7%" width="7%"/></h1>
+<!--<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="35" />, I'm Ravindu Bandara<img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="7%" width="7%"/></h1>-->
 
 <!--About Me-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=500&lines=Software+Engineer;Trainee+Full+Stack+Developer;AI+%26+ML+Engineer;Robotics+Developer;Maths+Lover;EDM+Producer;Artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&color=00FFFF&width=500&lines=Software+Engineer;Trainee+Full+Stack+Developer;AI+%26+ML+Engineer;Robotics+Developer;Maths+Lover;Artist" alt="Typing SVG" />
 </p>
 
 <!--
@@ -37,10 +37,10 @@
 <!--profile details-->
 <p align="center">
         <img src="https://img.shields.io/github/created-at/ravindurb/RavinduRB"/>
-        <img src="https://img.shields.io/github/commit-activity/m/ravindurb/RavinduRB"/>
-        <img src="https://img.shields.io/github/forks/ravindurb/RavinduRB"/>
+        <!--<img src="https://img.shields.io/github/commit-activity/m/ravindurb/RavinduRB"/>-->
+        <!--<img src="https://img.shields.io/github/forks/ravindurb/RavinduRB"/>-->
         <img src="https://img.shields.io/github/stars/ravindurb/RavinduRB"/>
-        <img src="https://img.shields.io/github/watchers/ravindurb/RavinduRB"/>
+        <!--<img src="https://img.shields.io/github/watchers/ravindurb/RavinduRB"/>-->
         <img src="https://img.shields.io/github/followers/ravindurb"/>
 </p>
 
@@ -57,11 +57,11 @@
   <tr border="none">
   <td width="50%" align="left">
 
-- 🌱 I’m currently learning **Python, Matlab, C++, Docker, Node.js, AJAX**
+- 🌱 I’m currently learning **Python, LLM, Robotics**
 
 - 🧑‍🎓 I'm a final year undergraduate student of **University of Plymouth**
 
-- 💬 Ask me about **HTML, CSS, Python, Maths, Docker**
+- 💬 Ask me about **HTML, CSS, Python, Maths**
 
 - ⚡ **"Silent but Dangerous, Alone but Powerful"** - Finch
 
@@ -130,19 +130,19 @@
 
 
 
-<!--break line-->
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+<!--break line
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">-->
 
 
 
 
-<!--my top contributed repo-->
+<!--my top contributed repo
 <h3 align="center">🌀 Top Contributed Repo: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <div align="center">
   
 ![](https://github-contributor-stats.vercel.app/api?username=RavinduRB&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-</div>
+</div>-->
 
 
 
@@ -154,7 +154,7 @@
 <h3 align="center">🔥 Top Contribution Graph: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <div align="center">
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindurb&theme=react&hide_border=true&bg_color=0D1117)
+  <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindurb&theme=react&hide_border=true&bg_color=0D1117)-->
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduRB&theme=react&area=true&order=5&bg_color=black" height="350" alt="activity-graph graph"  />
 
@@ -267,9 +267,14 @@
 
 
 <!--my trophies-->
-<h3 align="center">🏆 Trophies: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
-  <img src="https://github-profile-trophy.vercel.app?username=RavinduRB&theme=discord&margin-w=8&no-bg=true&no-frame=false&order=4" height="200" alt="trophy graph"  />
-
+<!--<h3 align="center">🏆 Trophies: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>-->
+<h3 align="center">📆 Commit Calendar: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+  <!--<img src="https://github-profile-trophy.vercel.app?username=RavinduRB&theme=discord&margin-w=8&no-bg=true&no-frame=false&order=4" height="200" alt="trophy graph"  />-->
+  
+<!--Commit Calendar-->
+<div align="center">
+  <img src="https://ghchart.rshah.org/409ba5/RavinduRB" alt="Commit Calendar" width="100%"/>
+</div>
 
 
 <!--break line-->
@@ -402,5 +407,5 @@
 
 <!--footer-->
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
