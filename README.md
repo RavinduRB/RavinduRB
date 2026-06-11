@@ -1,4 +1,4 @@
-<img width="1493" height="1053" alt="Certificate_Project_Management" src="https://github.com/user-attachments/assets/10019fe0-da34-4fc3-8af0-f94a6d518c92" /><img width="1494" height="1053" alt="Certificate_Introduction_to_Drones" src="https://github.com/user-attachments/assets/4ee8a01a-588d-4133-b280-fab1d7bf60c8" /><!--Header-->
+<!--Header-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
 </p>
