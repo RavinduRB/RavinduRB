@@ -166,6 +166,8 @@
 <!--My Arts-->
 <h3 align="center">🎨 Arts: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
+      <a href="https://github.com/user-attachments/assets/5ffd8ded-5bca-49dd-8dcf-180f5686de1d" target="_blank"> <img height ="190px"  src="./My Arts/14.jpg" /></a>
+      <a href="https://github.com/user-attachments/assets/33817ff7-89db-4e35-a6e0-574a8e4a6043" target="_blank"> <img height ="190px"  src="./My Arts/13.jpg" /></a>    
       <a href="https://github.com/user-attachments/assets/3835e215-3766-4034-bff2-f8ca3bd62110" target="_blank"> <img height ="190px"  src="./My Arts/12.jpg" /></a>
       <a href="https://github.com/user-attachments/assets/4c99f806-2036-4125-8ef1-5ce2482d675a" target="_blank"> <img height ="190px"  src="./My Arts/11.jpg" /></a>    
       <a href="https://github.com/user-attachments/assets/82b19e1b-418c-40e6-b5d8-009bfd9dc101" target="_blank"> <img height ="190px"  src="./My Arts/10.jpg" /></a>
