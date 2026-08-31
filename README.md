@@ -149,14 +149,16 @@
 <!--break line-->
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
+<!--my research papers-->
+<h3 align="center">📘 Research Papers: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<div align="center">
 
-<!--my top contribution graph-->
+<a href="https://www.researchgate.net/publication/410705863_Smart_chilli_leaf_disease_detection_system_using_image_recognition_and_machine_learning" target="_blank"><img height="200px" alt="paper" src="https://github.com/user-attachments/assets/a51c8a4b-7b4e-47d9-997a-c251155cccf4" /></a>
+<!--my top contribution graph
 <h3 align="center">🔥 Top Contribution Graph: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <div align="center">
-  
-  <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindurb&theme=react&hide_border=true&bg_color=0D1117)-->
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduRB&theme=react&area=true&order=5&bg_color=black" height="350" alt="activity-graph graph"  />
+  <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravindurb&theme=react&hide_border=true&bg_color=0D1117)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavinduRB&theme=react&area=true&order=5&bg_color=black" height="350" alt="activity-graph graph"  />-->
 
 
   
