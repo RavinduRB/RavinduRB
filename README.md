@@ -87,25 +87,19 @@
 <!--my gitHub stats-->
 <h3 align="center">📊 GitHub Stats: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center">
-<table align="center">
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RavinduRB&theme=algolia" alt="ravindu bandara" /> 
+<!--<table align="center">
   <tr border="none">
   <td width="50%" align="center">
-
-
-  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RavinduRB&show_icons=true&theme=tokyonight" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RavinduRB&theme=algolia" alt="ravindu bandara" /> 
   </td>
   <td width="50%" align="center">
-
-
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduRB&layout=donut&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  
   </td>
   </tr>
-</table>
+</table>-->
 
 
 
