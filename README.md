@@ -222,8 +222,6 @@
       <a href="https://github.com/user-attachments/assets/1d601256-3e9b-46eb-85d6-52366ff6747b" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_4.png" /></a>
       <a href="https://github.com/user-attachments/assets/92646de0-0f35-4ad0-ac59-5f486bfaeec8" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_5.png" /></a>
       <a href="https://github.com/user-attachments/assets/4a0106b8-a57a-4d4e-9ed4-3e3077fe46c2" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_6.png" /></a>
-      <a href="https://github.com/user-attachments/assets/27cf5611-5db7-45ad-bfc7-923f215927f7" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_7.png" /></a>
-      <a href="https://github.com/user-attachments/assets/c2ffb84d-ee0b-4d9e-933a-388724b19a08" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_8.png" /></a>
       <a href="https://github.com/user-attachments/assets/56897d16-63af-4c5d-9fa1-573b4e39e4fb" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_9.png" /></a>
       <a href="https://github.com/user-attachments/assets/ba588c29-b9ca-4c28-9fbb-e85c89feed69" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_10.png" /></a>
       <a href="https://github.com/user-attachments/assets/dc8acffa-ae18-4961-87d2-404df92059ed" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_11.png" /></a>
