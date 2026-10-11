@@ -387,9 +387,7 @@
   </a>
 </p>-->
 <p align="center">
-    <img align="center" src="https://github.com/user-attachments/assets/a3af4629-3646-420b-a21d-1f958153cf1f" height="80px" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=00FFFF&width=500&lines=ආදරියේ+මගේ;ආදරියේ+රැයේ;මා+දිහා+බලා;හීනෙකින්+හිදින්නකෝ;ආදරියේ+මගේ...;ආදරියේ+රැයේ;මා+දිහා+බලා...;හීනෙන්+ඈ+හා+ලංවීම+වින්දා;ගෙව්වේ+ආදරේ+මා+හා;දෑහින්+මා+නිවාදෝ+ආදරේ;ඈ+හා+මතකේ;වින්දාද+පාරා;මා+හිදී+දෝ+ඈහා;කවදා+ලංවේදෝ+ආදරේ" alt="Typing SVG" />
-
+    <img align="center" src="https://github.com/user-attachments/assets/65f9e33a-3170-47de-8a60-fb7f93d82556" height="100px" />
 </p>
 
 
