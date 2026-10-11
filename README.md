@@ -160,7 +160,7 @@
 <img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
 <!--My Arts-->
-<h3 align="center">🎨 Arts: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<h3 align="center">🚀 Latest Projects: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
       <a href="https://github.com/user-attachments/assets/5ffd8ded-5bca-49dd-8dcf-180f5686de1d" target="_blank"> <img height ="190px"  src="./My Arts/14.jpg" /></a>
       <a href="https://github.com/user-attachments/assets/33817ff7-89db-4e35-a6e0-574a8e4a6043" target="_blank"> <img height ="190px"  src="./My Arts/13.jpg" /></a>    
