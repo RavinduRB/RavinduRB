@@ -16,7 +16,7 @@
 
 <!--About Me-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&color=00FFFF&width=500&lines=Software+Engineer;Trainee+Full+Stack+Developer;AI+%26+ML+Engineer;Robotics+Developer;Maths+Lover;Artist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&color=00FFFF&width=500&lines=Software+Engineer;Trainee+Full+Stack+Developer;AI+%26+ML+Engineer;Robotics+Developer;Maths+Lover;Researcher" alt="Typing SVG" />
 </p>
 
 <!--
@@ -379,14 +379,18 @@
 
 
 
-<!--support-->
+<!--support
 <h3 align="center">🤝 Support: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/RavinduRB"> 
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="RavinduRB" />
   </a>
+</p>-->
+<p align="center">
+    <img align="center" src="https://github.com/user-attachments/assets/a3af4629-3646-420b-a21d-1f958153cf1f" height="80px" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=00FFFF&width=500&lines=ආදරියේ+මගේ;ආදරියේ+රැයේ;මා+දිහා+බලා;හීනෙකින්+හිදින්නකෝ;ආදරියේ+මගේ...;ආදරියේ+රැයේ;මා+දිහා+බලා...;හීනෙන්+ඈ+හා+ලංවීම+වින්දා;ගෙව්වේ+ආදරේ+මා+හා;දෑහින්+මා+නිවාදෝ+ආදරේ;ඈ+හා+මතකේ;වින්දාද+පාරා;මා+හිදී+දෝ+ඈහා;කවදා+ලංවේදෝ+ආදරේ" alt="Typing SVG" />
+
 </p>
-<br><br>
 
 
 <!--footer-->
