@@ -352,7 +352,7 @@
 
 
 
-<!--currently in use-->
+<!--currently in use
 <h3 align="center">🍃 Currently in use: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
 <div align="center">
@@ -370,12 +370,12 @@
 | Version Control                | <img src="https://skillicons.dev/icons?i=github,githubactions"/>                                                 |
 | favourite                      | <img src="https://skillicons.dev/icons?i=html,css,python" />                                                  |
 
-</div>
+</div>-->
 
 
 
-<!--break line-->
-<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+<!--break line
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">-->
 
 
 
