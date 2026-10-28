@@ -203,7 +203,6 @@
       <a href="https://github.com/user-attachments/assets/1c22a1b6-ca41-46c7-85d6-b1027991d52b" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_Azure.png" /></a>
       <a href="https://github.com/user-attachments/assets/7c8f5301-2d2c-472d-99e0-4bc88d4c18f0" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_generative_AI_and_agents_in_Azure.png" /></a>    
       <a href="https://github.com/user-attachments/assets/d7aa3c99-dc58-4635-ad5b-6ec2f1e252ac" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_generative_AI_and_agents.png" /></a>
-      <a href="https://github.com/user-attachments/assets/86e9fd9c-2a09-4c37-9af8-f3e5ca775deb" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_IQ.png" /></a>
       <a href="https://github.com/user-attachments/assets/642761a7-873b-4a7f-a0de-ac4374d2412d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_26.png" /></a>
       <a href="https://github.com/user-attachments/assets/642761a7-873b-4a7f-a0de-ac4374d2412d" target="_blank"> <img height ="150px"  src="./Certificates/Certificate_27.png" /></a>
       <a href="https://github.com/user-attachments/assets/340af923-05e0-495b-9038-13e713940827" target="_blank"> <img height ="150px"  src="./Certificates/Art_Certificate.png" /></a>
