@@ -162,10 +162,10 @@
 <!--My Latest Projects-->
 <h3 align="center">🚀 Latest Projects: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
   <div align="center">
+      <a href="https://github.com/RavinduRB/Sonora-Music-Player" target="_blank"> <img height ="190px"  src="https://github.com/user-attachments/assets/7c1b7b5a-680a-424c-b889-20d1a08f6695" /></a>    
+      <a href="https://github.com/RavinduRB/Huecraft" target="_blank"> <img height ="190px"  src="https://github.com/user-attachments/assets/73c27135-6f04-4e64-bc19-a23b6a489f83" /></a>
       <a href="https://github.com/RavinduRB/HelaG" target="_blank"> <img height ="190px"  src="https://github.com/user-attachments/assets/17726035-c2d4-4be8-ae3e-84a414c83db3" /></a>
       <a href="https://github.com/RavinduRB/PDF-Master" target="_blank"> <img height ="190px"  src="https://github.com/user-attachments/assets/eae7d2d1-c948-43cc-9ed0-ea212493095e" /></a>    
-      <a href="https://github.com/RavinduRB/Video-Splitter" target="_blank"> <img height ="190px"  src="https://github.com/user-attachments/assets/b5ef1ca5-979b-4204-b2d2-a04938d5467d" /></a>    
-      <a href="https://github.com/RavinduRB/StreamLine" target="_blank"> <img height ="190px"  src="https://github.com/user-attachments/assets/55cf91e3-6130-4ece-adf3-99e8f7e2cfce" /></a>
   </div>
 
 
